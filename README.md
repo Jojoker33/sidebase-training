@@ -58,3 +58,8 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
+
+
+### Sources/help
+
+- Nuxt3 + trpc : https://michalkuncio.com/type-safe-apis-with-nuxt3-and-trpc/
